@@ -6,7 +6,7 @@
 
 ## **JavaServer Faces**
 
-* To develop web applications & it is writtern in java.
+* To develop web applications & it is written in java.
 * It also provides server-side validation,data conversion,accessibility etc.
 * JSF Tag libraries are used to add components on the web page.
 
